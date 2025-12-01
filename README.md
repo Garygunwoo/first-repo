@@ -34,4 +34,4 @@ $$
 - Greeting
 - Counting
 
-## Runtest
+## Run test
