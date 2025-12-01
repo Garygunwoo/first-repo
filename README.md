@@ -1,10 +1,10 @@
- # first-repo
+# first-repo
  
  You have to describe thi project in one line.
  
  [See Demo](https://www.google.com/)
   
- ## Prerequisites
+## Prerequisites
   
 - Python==3.14.0
 - Pandas^2.0.0
